@@ -2,9 +2,7 @@
     "name": "𝗭𝗧𝗵𝗼𝗻",
     "description": "• تنصيب سـورس زدثــون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["zthon", "ai","telegram"],
-    "repository": "https://github.com/ZThon-fr/bita",
-    "logo": "https://graph.org/file/dc08630c4dc62f59d263b.jpg",
+    "repository": "https://github.com/Zelzal-SC/bita",
     "stack": "container",
     "env": {
         "STRING_SESSION": {
