@@ -1,5 +1,5 @@
-git clone https://github.com/ZThon-fr/ZTZ FRANCE
-cd FRANCE
+git clone https://github.com/Zelzal-SC/sst FRA
+cd FRA
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
 python3 -m zelz
